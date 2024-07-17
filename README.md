@@ -1,2 +1,2 @@
 # Algoritmo-Apriori
-“O Apriori é um algoritmo de mineração e regras de associação utilizado em bancos de dados relacionais.
+“O Apriori é um algoritmo de mineração e regras de associação utilizado em bancos de dados relacionais. Identifica a frequência de um item individual no conjunto de dados e extende para conjuntos de itens cada vez maiores, com frequência suficiente dentro do conjunto. A frequência dos itens determinada pelo Apriori pode ser usada para realçar tendências gerais com aplicações em domínios como as cestas de mercado.” (Kaggle)
